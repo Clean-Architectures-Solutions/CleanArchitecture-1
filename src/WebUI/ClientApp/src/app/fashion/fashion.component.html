@@ -1,0 +1,49 @@
+<h1>Fashion</h1>
+
+<p *ngIf="!vm"><em>Loading ...</em></p>
+
+<div *ngIf="vm">
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="clearfix">
+                <h2 class="clearfix">Lists</h2>
+                <button class="btn btn-default float-right" title="Add Fashion..."
+                (click)="showNewListModal(newListModalTemplate)"> <fa-icon [icon]="faPlus"></fa-icon>
+            </button>  
+            </div>
+            <ul class="list-group">
+                <li *ngFor="let item of vm.lists; index as i" class="list-group-item">
+                    {{item.name}}
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<ng-template #newListModalTemplate>
+    <div class="modal-header clearfix">
+      <h4 class="modal-title float-left">New Fashion</h4>
+      <button type="button" class="close float-right" aria-label="Close" (click)="newFashionCancelled()">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <div class="form-group">
+        <label for="title">Title</label>
+        <input type="text" class="form-control" id="name"
+         placeholder="Fashion name..." [(ngModel)]="newFashionEditor.name"
+          [ngClass]="{ 'is-invalid': newFashionEditor.error }" (keyup.enter)="addList()" />
+        <div *ngIf="newFashionEditor.error" class="invalid-feedback">
+          {{ newFashionEditor.error }}
+        </div>
+      </div>
+      <div *ngIf="debug">
+        <pre>{{ newFashionEditor | json }}</pre>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <div class="text-right">
+        <button class="btn btn-default" (click)="newFashionCancelled()">Cancel</button>
+        <button class="btn btn-primary" (click)="addFashion()">Create</button>
+      </div>
+    </div>
+  </ng-template>

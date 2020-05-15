@@ -1,0 +1,49 @@
+<h1>Product Types</h1>
+
+<p *ngIf="!vm"><em>Loading ...</em></p>
+
+<div *ngIf="vm">
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="clearfix">
+                <h2 class="clearfix">Lists</h2>
+                <button class="btn btn-default float-right" title="Add ProductType..."
+                (click)="showNewListModal(newListModalTemplate)"> <fa-icon [icon]="faPlus"></fa-icon>
+            </button>  
+            </div>
+            <ul class="list-group">
+                <li *ngFor="let item of vm.lists; index as i" class="list-group-item">
+                    {{item.name}}
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<ng-template #newListModalTemplate>
+    <div class="modal-header clearfix">
+      <h4 class="modal-title float-left">New Product Type</h4>
+      <button type="button" class="close float-right" aria-label="Close" (click)="newProductTypeCancelled()">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <div class="form-group">
+        <label for="title">Title</label>
+        <input type="text" class="form-control" id="name"
+         placeholder="ProductType name..." [(ngModel)]="newProductTypeEditor.name"
+          [ngClass]="{ 'is-invalid': newProductTypeEditor.error }" (keyup.enter)="addList()" />
+        <div *ngIf="newProductTypeEditor.error" class="invalid-feedback">
+          {{ newProductTypeEditor.error }}
+        </div>
+      </div>
+      <div *ngIf="debug">
+        <pre>{{ newProductTypeEditor | json }}</pre>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <div class="text-right">
+        <button class="btn btn-default" (click)="newProductTypeCancelled()">Cancel</button>
+        <button class="btn btn-primary" (click)="addProductType()">Create</button>
+      </div>
+    </div>
+  </ng-template>
