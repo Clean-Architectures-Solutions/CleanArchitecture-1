@@ -1,0 +1,370 @@
+﻿'Audit.WebUI.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Private.CoreLib.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Audit.WebUI.dll'. Symbols loaded.
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Runtime.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Threading.Tasks.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Audit.Infrastructure.dll'. Symbols loaded.
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\netstandard.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Threading.Tasks.Extensions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\er.dll'. Symbols loaded.
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Audit.Domain.dll'. Symbols loaded.
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.ComponentModel.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Identity.Stores.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Identity.Core.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.DependencyInjection.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Hosting.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Logging.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Hosting.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Hosting.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Configuration.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.DependencyInjection.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Logging.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Collections.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.IO.FileSystem.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Runtime.Extensions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Hosting.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Configuration.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Configuration.EnvironmentVariables.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Primitives.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Linq.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Threading.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Server.Kestrel.Core.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Server.Kestrel.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Server.IIS.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Runtime.InteropServices.RuntimeInformation.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Server.IISIntegration.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Configuration.CommandLine.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Mvc.Core.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.FileProviders.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.FileProviders.Physical.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Memory.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Configuration.FileExtensions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Configuration.Json.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Configuration.UserSecrets.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Configuration.Binder.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Private.Uri.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Http.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.FileProviders.Composite.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Xml.XDocument.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Private.Xml.Linq.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Private.Xml.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Runtime.InteropServices.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Threading.Thread.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Security.Cryptography.Algorithms.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Text.Encoding.Extensions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.IO.FileSystem.Watcher.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.ComponentModel.Primitives.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Collections.Concurrent.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.FileSystemGlobbing.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Threading.Timer.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Threading.Overlapped.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.Win32.Primitives.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Text.Json.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Buffers.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Numerics.Vectors.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Runtime.CompilerServices.Unsafe.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Options.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Logging.EventLog.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Logging.Configuration.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Options.ConfigurationExtensions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Logging.Console.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Logging.Debug.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Logging.EventSource.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Diagnostics.Tracing.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Diagnostics.DiagnosticSource.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Http.Features.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Http.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Connections.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Net.Primitives.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.HostFiltering.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.HttpOverrides.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Routing.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.ObjectPool.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Routing.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.ObjectModel.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Diagnostics.HealthChecks.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Mvc.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\NSwag.Generation.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\NJsonSchema.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll'. Symbols loaded.
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\MediatR.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\AutoMapper.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\FluentValidation.dll'. Symbols loaded.
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Authentication.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.ComponentModel.TypeConverter.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Collections.Specialized.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Drawing.Primitives.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Authentication.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Identity.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Authentication.Core.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Security.Claims.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.DataProtection.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.DataProtection.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Cryptography.Internal.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.WebEncoders.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Text.Encodings.Web.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Authentication.Cookies.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Mvc.RazorPages.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Audit.WebUI.Views.dll'. Symbols loaded.
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Razor.Runtime.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Mvc.Razor.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Resources.ResourceManager.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Mvc.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Mvc.ApiExplorer.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Authorization.Policy.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Authorization.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Mvc.Cors.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Cors.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Mvc.DataAnnotations.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Mvc.ViewFeatures.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Linq.Expressions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Components.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.JSInterop.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Antiforgery.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Caching.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Caching.Memory.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Mvc.TagHelpers.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Razor.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Http.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Net.Http.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\NSwag.Core.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Reflection.Emit.Lightweight.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.Localization.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Console.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\System.Diagnostics.EventLog.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Data.Common.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Security.Principal.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Transactions.Local.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Reflection.Emit.ILGeneration.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Reflection.Primitives.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'Anonymously Hosted DynamicMethods Assembly'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.ComponentModel.Annotations.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Diagnostics.Debug.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Collections.Immutable.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\CsvHelper.dll'. 
+Microsoft.EntityFrameworkCore.Infrastructure: Information: Entity Framework Core 3.1.0 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: MigrationsAssembly=Audit.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Xml.ReaderWriter.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Net.WebClient.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Security.Cryptography.Primitives.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Security.Principal.Windows.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Threading.ThreadPool.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Text.Encoding.CodePages.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Diagnostics.Process.dll'. 
+Microsoft.EntityFrameworkCore.Database.Command: Information: Executed DbCommand (22ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+Microsoft.EntityFrameworkCore.Database.Command: Information: Executed DbCommand (18ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Microsoft.EntityFrameworkCore.Database.Command: Information: Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+Microsoft.EntityFrameworkCore.Database.Command: Information: Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+Microsoft.EntityFrameworkCore.Database.Command: Information: Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+Microsoft.EntityFrameworkCore.Migrations: Information: No migrations were applied. The database is already up to date.
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.Win32.Registry.dll'. 
+Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: Information: User profile is available. Using 'C:\Users\BoksanD\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Linq.Queryable.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Text.RegularExpressions.dll'. 
+Microsoft.EntityFrameworkCore.Database.Command: Information: Executed DbCommand (38ms) [Parameters=[@__defaultUser_UserName_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN NOT EXISTS (
+        SELECT 1
+        FROM [AspNetUsers] AS [a]
+        WHERE ([a].[UserName] = @__defaultUser_UserName_0) AND [a].[UserName] IS NOT NULL) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+Microsoft.EntityFrameworkCore.Database.Command: Information: Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [TodoLists] AS [t]) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\System.IO.Pipelines.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Diagnostics.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.HttpsPolicy.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.StaticFiles.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Extensions.FileProviders.Embedded.dll'. 
+IdentityServer4.Startup: Information: Starting IdentityServer4 version 3.0.0.0
+Microsoft.Extensions.DependencyInjection.ConfigureApiResources: Information: Configuring local API resource 'Audit.WebUIAPI'.
+Microsoft.AspNetCore.ApiAuthorization.IdentityServer.ConfigureClients: Information: Configuring client 'Audit.WebUI'.
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\IdentityModel.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Security.Cryptography.X509Certificates.dll'. 
+Microsoft.AspNetCore.ApiAuthorization.IdentityServer.ConfigureSigningCredentials: Information: Loading development key at 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\obj/tempkey.json'.
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Runtime.Serialization.Formatters.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Diagnostics.TraceSource.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Runtime.Numerics.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Runtime.Serialization.Primitives.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll'. 
+Microsoft.AspNetCore.ApiAuthorization.IdentityServer.Configuration.ConfigureClientScopes: Information: Resource 'Audit.WebUIAPI' allows all applications.
+Microsoft.AspNetCore.ApiAuthorization.IdentityServer.Configuration.ConfigureClientScopes: Information: Identity resource 'openid' allows all applications.
+Microsoft.AspNetCore.ApiAuthorization.IdentityServer.Configuration.ConfigureClientScopes: Information: Identity resource 'profile' allows all applications.
+IdentityServer4.Startup: Information: Using explicitly configured authentication scheme Identity.Application for IdentityServer
+IdentityServer4.Startup: Debug: Using IdentityServerJwt as default ASP.NET Core scheme for authentication
+IdentityServer4.Startup: Debug: Using Identity.External as default ASP.NET Core scheme for sign-in
+IdentityServer4.Startup: Debug: Using Identity.External as default ASP.NET Core scheme for sign-out
+IdentityServer4.Startup: Debug: Using IdentityServerJwt as default ASP.NET Core scheme for challenge
+IdentityServer4.Startup: Debug: Using IdentityServerJwt as default ASP.NET Core scheme for forbid
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.Net.Http.Headers.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Metadata.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Net.WebSockets.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Html.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Net.Sockets.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Net.NameResolution.dll'. 
+Microsoft.AspNetCore.SpaServices: Information: Starting @angular/cli on port 53940...
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.WebSockets.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Net.Security.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Diagnostics.Abstractions.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Collections.NonGeneric.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Security.Cryptography.Encoding.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Security.Cryptography.Cng.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Security.Cryptography.Csp.dll'. 
+Microsoft.Hosting.Lifetime: Information: Now listening on: https://localhost:5001
+Microsoft.Hosting.Lifetime: Information: Now listening on: http://localhost:5000
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+Microsoft.Hosting.Lifetime: Information: Content root path: C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI
+Exception thrown: 'System.IO.IOException' in System.Net.Security.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:5001/  
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll'. 
+IdentityServer4.Startup: Debug: Login Url: /Identity/Account/Login
+IdentityServer4.Startup: Debug: Login Return Url Parameter: ReturnUrl
+IdentityServer4.Startup: Debug: Logout Url: /Identity/Account/Logout
+IdentityServer4.Startup: Debug: ConsentUrl Url: /consent
+IdentityServer4.Startup: Debug: Consent Return Url Parameter: returnUrl
+IdentityServer4.Startup: Debug: Error Url: /home/error
+IdentityServer4.Startup: Debug: Error Id Parameter: errorId
+Microsoft.AspNetCore.SpaServices: Information: > audit.webui@0.0.0 start C:\Users\BoksanD\source\repos\CleanArchitecture\src\WebUI\ClientApp
+> echo Starting... && ng serve  "--port" "53940"
+
+Starting... 
+
+The thread 0x5e90 has exited with code 0 (0x0).
+The thread 0x32f4 has exited with code 0 (0x0).
+Microsoft.AspNetCore.SpaServices: Information: chunk {main} main.js, main.js.map (main) 277 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 141 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.15 kB [entry] [rendered]
+chunk {styles} styles.css, styles.css.map (styles) 156 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 5 MB [initial] [rendered]
+Date: 2020-05-18T12:12:30.130Z - Hash: 89640b9c2b7031125c1a - Time: 12952ms
+
+Microsoft.AspNetCore.SpaServices: Information: ** Angular Live Development Server is listening on localhost:53940, open your browser on http://localhost:53940/ **
+
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 23507.9054ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:5001/styles.css  
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.Http.Extensions.dll'. 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:5001/runtime.js  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:5001/polyfills.js  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:5001/main.js  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:5001/vendor.js  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 56.6214ms 304 
+Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware: Information: No CORS policy found for the specified request.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware: Information: No CORS policy found for the specified request.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware: Information: No CORS policy found for the specified request.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware: Information: No CORS policy found for the specified request.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 90.816ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 93.3739ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 117.8841ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1090.1385ms 304 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:5001/_configuration/Audit.WebUI  
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'Audit.WebUI.Controllers.OidcConfigurationController.GetClientRequestParameters (Audit.WebUI)'
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "GetClientRequestParameters", controller = "OidcConfiguration", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetClientRequestParameters(System.String) on controller Audit.WebUI.Controllers.OidcConfigurationController (Audit.WebUI).
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.AspNetCore.WebUtilities.dll'. 
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor: Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:5001/_configuration/Audit.WebUI  
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'Audit.WebUI.Controllers.OidcConfigurationController.GetClientRequestParameters (Audit.WebUI)'
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Route matched with {action = "GetClientRequestParameters", controller = "OidcConfiguration", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetClientRequestParameters(System.String) on controller Audit.WebUI.Controllers.OidcConfigurationController (Audit.WebUI).
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action Audit.WebUI.Controllers.OidcConfigurationController.GetClientRequestParameters (Audit.WebUI) in 74.2361ms
+Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor: Information: Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint 'Audit.WebUI.Controllers.OidcConfigurationController.GetClientRequestParameters (Audit.WebUI)'
+Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker: Information: Executed action Audit.WebUI.Controllers.OidcConfigurationController.GetClientRequestParameters (Audit.WebUI) in 12.9636ms
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint 'Audit.WebUI.Controllers.OidcConfigurationController.GetClientRequestParameters (Audit.WebUI)'
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 175.6052ms 200 application/json; charset=utf-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 45.6914ms 200 application/json; charset=utf-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:5001/sockjs-node/info?t=1589803955932  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 8.2974ms 200 application/json; charset=UTF-8
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 GET https://localhost:5001/sockjs-node/639/rcqr5eby/websocket  
+Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware: Information: No CORS policy found for the specified request.
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Net.WebSockets.Client.dll'. 
+'Audit.WebUI.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Net.WebHeaderCollection.dll'. 
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 POST https://localhost:5001/sockjs-node/639/jjraitw3/xhr_streaming?t=1589803956688  0
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware: Information: No CORS policy found for the specified request.
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.WebSockets.Client.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.WebSockets.Client.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 1264.7744ms 0 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:5001/api  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 6.456ms 302 
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/2 GET https://localhost:5001/api/index.html?url=/api/specification.json  
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 38.4355ms 200 text/html; charset=utf-8
+Exception thrown: 'System.IO.IOException' in System.Net.Sockets.dll
+Exception thrown: 'System.IO.IOException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Net.Http.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Exception thrown: 'System.ObjectDisposedException' in System.Net.Sockets.dll
+Exception thrown: 'System.ObjectDisposedException' in System.Private.CoreLib.dll
+Exception thrown: 'System.ObjectDisposedException' in System.Private.CoreLib.dll
+Exception thrown: 'System.Threading.Tasks.TaskCanceledException' in System.Private.CoreLib.dll
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished in 15019.1062ms 200 application/javascript; charset=UTF-8
+The program '[20756] Audit.WebUI.exe' has exited with code -1 (0xffffffff).
